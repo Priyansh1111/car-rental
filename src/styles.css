@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+.form-control{
+    border: 1px solid #0b0d6e !important;
+}
+.form-select{
+    border: 1px solid #0b0d6e !important;
+}
+.red {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+  }
+
+  .gray {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: gray;
+  }
+
+  .card-body {
+    border: 1px solid #3cbaba !important;
+    border-top-color: none !important;
+    padding: 5px !important;
+  }
+
+  .breadcrumb {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-bottom: 0rem !important;
+    list-style: none;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+  }
